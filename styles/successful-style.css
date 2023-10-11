@@ -1,0 +1,16 @@
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 120px;
+    text-align: center;
+}
+
+main p {
+    font-size: 80px;
+}
+
+button {
+    width: 450px;
+    height: 70px;
+    border-radius: 30px;
+}

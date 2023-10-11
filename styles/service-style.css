@@ -1,0 +1,56 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    margin-bottom: 60px;
+}
+
+.box h2 {
+    margin-left: 165px;
+    font-size: 60px;
+}
+
+.product {
+    display: flex;
+}
+
+.product img {
+    margin-top: 30px;
+    width: 888px;
+    height: 562px;
+}
+
+.descrpition {
+    display: flex;
+    justify-content: center;
+    background-color: #222222;
+    border-radius: 15px;
+    margin-left: 21px;
+    width: 604px;
+    height: 620px;
+    font-size: 36px;
+    position: relative;
+}
+
+.descrpition p {
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 574px;
+    height: fit-content;
+}
+
+
+button {
+    position: relative;
+    font-size: 32px;
+    width: 342px;
+    height: 68px;
+    border-radius: 50px;
+    margin-top: 40px;
+    left: 174px;
+}
